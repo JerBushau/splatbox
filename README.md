@@ -14,6 +14,8 @@ A prototype for a split ergonomic fightstick inspired by [Flatbox](https://githu
 - 8 x M3 heat-set inserts
 - Wire
 - 3D printed case
+- 11 x Small 3D printed [button caps](https://github.com/jfedor2/flatbox/tree/master/3d-printed-buttoncaps)
+- 2 x Big 3D printed [button caps](https://github.com/jfedor2/flatbox/tree/master/3d-printed-buttoncaps)
 - Rubber feet
 
 ## Building
