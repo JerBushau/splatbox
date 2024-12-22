@@ -22,7 +22,7 @@ A prototype for a split ergonomic fightstick inspired by [Flatbox](https://githu
 
 ![Splatbox](./photos/splatbox-pcb-front.jpg "Splatbox pcb")
 
-While still far from a finished product, the pcb certainly adds to the stability and reliability of the build.
+While still far from a finished product, the pcb certainly adds to the stability and reliability of the build. The tolerances for the case files are extremely tight, so you will likely need to scale it up some small fraction, I had to sand the pcb a bit to get a good fit.
 
 - Set heat-set inserts in case
 - Solder rp2040 zero
