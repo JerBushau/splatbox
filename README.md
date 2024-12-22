@@ -2,7 +2,7 @@
 
 ![Splatbox](./photos/splatbox-minimal-case.jpg "Splatbox")
 
-A prototype for a split ergonomic fightstick inspired by [Flatbox](https://github.com/jfedor2/flatbox). Designed to provide a more ergonomic and comfortable DIY option for anyone that might be interested in such a thing. This project also serves as an opportunity for me to learn Autodesk Fusion and KiCad.
+A prototype for a split ergonomic fightstick inspired by [Flatbox](https://github.com/jfedor2/flatbox). Designed to provide a more ergonomic and comfortable DIY option for anyone that might be interested in such a thing. This project also serves as an opportunity for me to do some handwiring and learn Autodesk Fusion and KiCad.
 
 ## BOM
 

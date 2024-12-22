@@ -31,5 +31,5 @@ This is very much a Proof of Concept, and the build was quick and dirty. But, if
 - Glue the tact switch holder to the case
 - Insert choc switches into the case
 - Wire everything up to the RP2040 ([wiring guide](https://gp2040-ce.info/controller-build/wiring/#waveshare-rp2040-zero))
-- Assemble the case by screwing on the bottom with 8 x M3 screws
 - Glue as needed
+- Assemble the case by screwing on the bottom with 8 x M3 screws
